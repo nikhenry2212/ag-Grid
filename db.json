@@ -1,0 +1,232 @@
+{
+  "boletas": [
+    {
+      "id": 1,
+      "status": "pendente",
+      "conta": "1500 40550-2",
+      "cliente": "Alessandra Helal Suiad",
+      "boleta": "31/05/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "CDB Itaú @09/2025 CDI",
+      "valor": 21.73526700,
+      "criado" :"João da Siva",
+      "atuacao" : "banker"
+
+
+
+    },
+    {
+      "id": 2,
+      "status": "boletado",
+      "conta": "1500 10765-3",
+      "cliente": "Luíz Ferreira",
+      "boleta": "31/05/2021",
+      "hora" : "14:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Debêntures Infraestrutura (VALE48)",
+      "valor": -57.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "banker"
+
+    },
+    {
+      "id": 3,
+      "status": "pendente",
+      "conta": "4004 50750-2",
+      "cliente": "Alessandra Helal Suiad",
+      "boleta": "31/05/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": 237.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "investidor"
+
+    },
+    {
+      "id": 4,
+      "status": "boletado",
+      "conta":"1500 10765-3",
+      "cliente": "Alessandra Helal Suiad",
+      "boleta": "31/05/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 5,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Alessandra Helal Suiad",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -59000,
+      "criado" :"Bruno Jaconias de Andrade",
+      "atuacao" : "AC"
+
+
+    },
+    {
+      "id": 6,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Alessandra Helal Suiad",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 7,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Priscila Rossi Julio Pellegrini",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"Bruno Jaconias de Andrade",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    },
+    {
+      "id": 8,
+      "status": "pendente",
+      "conta":"1500 10765-3",
+      "cliente": "Luciana da Glória Montenegro",
+      "boleta": "02/03/2021",
+      "hora" : "12:30",
+      "creddeb": "31/05/2021",
+      "ativo": "Itaú Managed Portfolio 3 FICFI MM(52..",
+      "valor": -78.00000,
+      "criado" :"João da Siva",
+      "atuacao" : "AC"
+
+    }
+
+  ]
+}
